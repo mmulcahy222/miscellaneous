@@ -2,6 +2,10 @@
 
 I am new at Git & GitHub, so I faced the decision if I should put everything in many repositories, or one repository. I saw this article here called "Mono-repo or multi-repo? Why choose one, when you can have both?" and I agreed https://medium.com/@patrickleet/mono-repo-or-multi-repo-why-choose-one-when-you-can-have-both-e9c77bd0c668. This is the "mono-repo" of the smaller scripts which I deemed not worthy enough to have it's own repository. Just tried for the best of both worlds & approaches. 
 
+# Disqus
+
+My very first ever Python program in 2016!!! In the old days I would have used an unsuitable language like PHP for this, but when I found out that Network Automation was primarily used in Python (and hearing about Python my whole life), I decided that Python was the tool for this job. I struggled heavily, and it took me a much longer than to do this than I would in PHP. But the rest of my career has this to thank. This will get all the comments in a Disqus forum. I don't use this anymore, but it holds special significance.
+
 # Image Reduce
 
 I made this to reduce the size of the images in my hard drive, and was able to save about 200 GB in hard disk drive space. It is DYNAMIC. With the magic of Python, it changes the quality based on the size of the file size. Larger files will get reduced & compressed heavily, small ones will not be compressed as much. Love this nifty tool I made. 
